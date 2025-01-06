@@ -33,5 +33,4 @@ The MQ2 sensor proved effective for capturing gas concentrations relevant to sim
 Data balancing and augmentation techniques are essential for improving model robustness and accuracy.
 
 
-Contributors : - Mohamed Wafiq Chahboun
-               - Hamza Benomar
+Contributors :  Mohamed Wafiq Chahboun / Hamza Benomar
