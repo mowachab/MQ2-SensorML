@@ -31,3 +31,7 @@ Gas sensors, combined with machine learning, can significantly enhance demining 
 The MQ2 sensor proved effective for capturing gas concentrations relevant to simulated landmine detection.
 
 Data balancing and augmentation techniques are essential for improving model robustness and accuracy.
+
+
+Contributors : - Mohamed Wafiq Chahboun
+               - Hamza Benomar
